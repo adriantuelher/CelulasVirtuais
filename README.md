@@ -1,6 +1,7 @@
 # IHC-RV
 
-# Objetivo Desenvolver uma aplicação para aprendizado de biologia em Realidade Virtual.
+# Objetivo 
+- Desenvolver uma aplicação para aprendizado de biologia em Realidade Virtual.
 
 # Cenários
 
