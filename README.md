@@ -66,3 +66,20 @@
 ## Requisitos Funcionais
 
 - Representação 3D do Interior Celular:  A aplicação deve criar e exibir uma representação tridimensional do interior de uma célula, destacando suas estruturas fundamentais.
+- Interatividade com Componentes Celulares: Os usuários devem ser capazes de interagir com diferentes estruturas celulares, clicando nelas para obter informações detalhadas.
+- Módulo Educativo com Informações Detalhadas: A aplicação deve implementar um módulo educativo que forneça informações detalhadas sobre cada estrutura celular ao ser selecionada.
+- Navegação por Temas Celulares: Os usuários devem ter a opção de trocar entre temas celulares, como célula animal, célula vegetal, etc., para aprender sobre diferentes tipos de células.
+- Interação Multiusuário: A aplicação deve suportar a interação de dois usuários no mesmo ambiente virtual, permitindo que explorem juntos as estruturas celulares.
+- Avaliação de Conhecimento: Implementar um recurso que permita aos usuários testarem seu conhecimento, por exemplo, respondendo a perguntas relacionadas às estruturas celulares após a exploração.
+
+##Framework Cognitivo
+
+- **Interno**
+- A Carga Cognitiva é um construto extremamente utilizado nas ciências cognitivas e da educação que representa a carga imposta ao sistema cognitivo de pessoas, fruto do Esforço Mental implicado na realização de tarefas ou na aprendizagem de novos conhecimentos.
+
+##Avaliação
+
+- **Qualitativa**
+- Engajamento: Medir o nível de envolvimento dos usuários com a aplicação.
+- Compreensão Educativa: Avaliar o quanto os usuários aprendem sobre as estruturas celulares.
+- Acessibilidade: Garantir que a aplicação seja acessível a diferentes pessoas.
