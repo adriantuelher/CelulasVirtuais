@@ -72,12 +72,12 @@
 - Interação Multiusuário: A aplicação deve suportar a interação de dois usuários no mesmo ambiente virtual, permitindo que explorem juntos as estruturas celulares.
 - Avaliação de Conhecimento: Implementar um recurso que permita aos usuários testarem seu conhecimento, por exemplo, respondendo a perguntas relacionadas às estruturas celulares após a exploração.
 
-##Framework Cognitivo
+## Framework Cognitivo
 
 - **Interno**
 - A Carga Cognitiva é um construto extremamente utilizado nas ciências cognitivas e da educação que representa a carga imposta ao sistema cognitivo de pessoas, fruto do Esforço Mental implicado na realização de tarefas ou na aprendizagem de novos conhecimentos.
 
-##Avaliação
+## Avaliação
 
 - **Qualitativa**
 - Engajamento: Medir o nível de envolvimento dos usuários com a aplicação.
